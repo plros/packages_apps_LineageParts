@@ -40,6 +40,7 @@ public class NetworkTrafficSettings extends SettingsPreferenceFragment
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         addPreferencesFromResource(R.xml.network_traffic_settings);
+        getActivity().setTitle(R.string.network_traffic_settings_title);
         final ContentResolver resolver = getActivity().getContentResolver();
 
         mNetTrafficAutohide = findPreference(Settings.System.NETWORK_TRAFFIC_AUTOHIDE);
