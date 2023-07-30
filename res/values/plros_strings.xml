@@ -31,4 +31,7 @@
     <string name="navbar_layout_compact">Compact</string>
     <string name="navbar_layout_leftleaning">Left-leaning</string>
     <string name="navbar_layout_rightleaning">Right-leaning</string>
+
+    <!-- Power menu -->
+    <string name="power_menu_lockdown_title">Lock down</string>
 </resources>
