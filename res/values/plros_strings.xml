@@ -24,4 +24,11 @@
     <string name="network_traffic_units_title">Traffic measurement units</string>
     <string name="network_traffic_units_bits" translatable="false">kbps, Mbps, Gbps</string>
     <string name="network_traffic_units_bytes" translatable="false">kB/s, MB/s, GB/s</string>
+
+    <!-- Navbar layout -->
+    <string name="navbar_layout_title">Layout</string>
+    <string name="navbar_layout_normal">Normal</string>
+    <string name="navbar_layout_compact">Compact</string>
+    <string name="navbar_layout_leftleaning">Left-leaning</string>
+    <string name="navbar_layout_rightleaning">Right-leaning</string>
 </resources>
